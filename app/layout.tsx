@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "TaxMind | InteligÃªncia tributÃ¡ria",
-  description: "DecisÃµes tributÃ¡rias mais claras, rÃ¡pidas e confiÃ¡veis.",
+  title: "TaxMind | Inteligência tributária",
+  description: "Decisões tributárias mais claras, rápidas e confiáveis.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
