@@ -1,6 +1,6 @@
 # TaxMind
 
-Landing page pÃºblica para o TaxMind, uma plataforma de inteligÃªncia tributÃ¡ria.
+Landing page pública para o TaxMind, uma plataforma de inteligência tributária.
 
 ## Executar localmente
 
@@ -15,5 +15,5 @@ Abra `http://localhost:3000`.
 
 ## Aviso
 
-O TaxMind organiza informaÃ§Ãµes e orienta a anÃ¡lise. Para decisÃµes tributÃ¡rias, consulte um profissional habilitado.
+O TaxMind organiza informações e orienta a análise. Para decisões tributárias, consulte um profissional habilitado.
 
