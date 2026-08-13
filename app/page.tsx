@@ -23,8 +23,8 @@ export default function Home() {
     <main>
       <nav className="nav shell">
         <a className="brand" href="#inicio" aria-label="TaxMind início"><span>TM</span> TaxMind</a>
-        <div className="nav-links"><a href="#como-funciona">Como funciona</a><a href="#solucoes">Soluções</a></div>
-        <a className="nav-cta" href="#consulta">Experimentar agora</a>
+        <div className="nav-links"><a href="#como-funciona">Como funciona</a><a href="#solucoes">Soluções</a><a href="/classificador">Classificador IBS/CBS</a></div>
+        <a className="nav-cta" href="/classificador">Consultar produto</a>
       </nav>
 
       <section className="hero" id="inicio">
