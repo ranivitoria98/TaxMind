@@ -28,7 +28,7 @@ export default function Home() {
       </nav>
 
       <section className="hero" id="inicio">
-        <div className="hero-overlay" />
+        <div className="hero-visual" aria-hidden="true"><div className="chart-grid" /><div className="chart-line" /><div className="chart-bars"><i /><i /><i /><i /></div><div className="tax-card"><b>ANÁLISE TRIBUTÁRIA</b><strong>IBS + CBS</strong></div><div className="tax-badge">cClassTrib&nbsp; ✓</div></div>
         <div className="shell hero-content">
           <p className="eyebrow">INTELIGÊNCIA QUE SIMPLIFICA</p>
           <h1>O futuro da análise tributária começa com clareza.</h1>
